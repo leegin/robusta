@@ -110,3 +110,4 @@ Capabilities
      - Execute an instant PromQL query
    * - execute_prometheus_range_query
      - Execute a PromQL range query
+
